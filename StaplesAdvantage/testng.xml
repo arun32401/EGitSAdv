@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+   <classes>
+      <class name="com.staples.saf.test.ATC001_SAdv_AddSKUItem"/>
+<!--  	  <class name="com.staples.saf.test.ATC002_SAdv_AddManufacturerName"/>     -->
+     <!-- <class name="com.tcs.saf.test.VerifyProductsInWishList"/>  -->
+      <!--  <class name="com.tcs.saf.test.TD_AccountCreation"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
